@@ -1,0 +1,10 @@
+{
+  "userId": 1,
+  "id": 1,
+  "title": "Какой-то тайтл",
+  "info": {
+    "desc": "asc",
+    "isActive": true
+  },
+  "tags": [{ "name": "Ivan", "value": 1000 }]
+}
